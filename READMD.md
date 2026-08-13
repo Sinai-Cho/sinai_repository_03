@@ -37,9 +37,15 @@ data.json의 “키 규칙/라벨 규칙”을 해석하고, 프로그램 내부
 # 4. 결과 리포트
 ## 1) 1번 사용자 입력(3x3) 실행
 ### 1) 성공 케이스
+<<<<<<< HEAD
 ![](images/img_01.png)
 ### 2) 실패 케이스
 ![](images/img_01.png)
+=======
+(images/img_02.png)
+### 2) 실패 케이스
+(images/omg_01.png)
+>>>>>>> 16e794c (readme.me fixed)
 ## 2. data.json 분석 실행
 ![](images/img_03.png)
 
