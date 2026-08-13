@@ -41,6 +41,7 @@ data.json의 “키 규칙/라벨 규칙”을 해석하고, 프로그램 내부
 ### 2) 실패 케이스
 ![](images/img_01.png)
 ## 2. data.json 분석 실행
+![](images/img_03.png)
 
 ==============================
        MINI NPU Simulator
