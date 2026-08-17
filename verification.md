@@ -4,6 +4,7 @@
 ## 2. 모드 2에서 사이즈 일치시키는 로직
 ![](images/name.png)
 ![](images/name_json.png)
+![](images/choice_filter.png)
 
 ## 3. 표준라벨 정규화 로직
 ![](images/label.png)
